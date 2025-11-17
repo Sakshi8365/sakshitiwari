@@ -1,6 +1,6 @@
 <h1>Hi there! <img src="assets/blob-wave.gif" alt="👋" width="40" /></h1>
 
-I'm Sakshi — a developer passionate about software engineering, problem-solving, and building things that make an impact.
+I'm <a href='https://sakshi8365.github.io/portfolio/' target='_blank' rel='noopener noreferrer'>Sakshi</a> — a developer passionate about software engineering, problem-solving, and building things that make an impact.
 
 I’m currently focusing on data structures & algorithms, problem-solving, and AI-assisted development and Machine Learning. I enjoy experimenting with new technologies, creating meaningful projects, and strengthening my engineering fundamentals.
 
