@@ -1,4 +1,4 @@
-<h1>Hi there! <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" alt=\"👋\" width=\"40\" /></h1>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋" width="40" /></h1>
 
 I'm Sakshi — a developer passionate about software engineering, problem-solving, and building things that make an impact.
 
