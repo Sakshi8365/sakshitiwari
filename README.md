@@ -8,7 +8,6 @@ I'm fascinated by large-scale systems, high-impact products, and how AI is trans
 
 Outside of tech, I enjoy gaming, learning new things, exploring science, and staying curious.
 
----
 
 ## Let's connect
 
